@@ -2,6 +2,7 @@
 var client;
 var mymap;
 var navigatorid;
+var userMakr
 function getEarthquakes() {
    client = new XMLHttpRequest();
    client.open('GET','https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson');
