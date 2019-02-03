@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Integrated Material Design and Leaflet",
+  "short_name": "Integrated Material Design and Leaflet",
+  "version": "materialleaflet",
+  "description": "Integrated Material Design and Leaflet App on PhoneGap",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}
