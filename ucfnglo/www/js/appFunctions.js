@@ -2,7 +2,8 @@
 var client;
 var mymap;
 var navigatorid;
-var userMakr
+var userMarker
+
 function getEarthquakes() {
    client = new XMLHttpRequest();
    client.open('GET','https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson');
@@ -39,8 +40,12 @@ function trackLocation() {
 }
 function showPosition(position) {
     
-    L.marker([position.coords.latitude, position.coords.longitude]).addTo(mymap)
+    userMarker = L.marker([position.coords.latitude, position.coords.longitude]).addTo(mymap)
     .bindPopup("This is location lat/lon: "+ position.coords.latitude + " "+ position.coords.longitude);
+}
+
+if (userMarker){
+mymap.removeLayer(userMarker);
 }
 
 function stopTrackLocation(){
