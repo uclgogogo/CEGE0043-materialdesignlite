@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e8fc4d12-2b7a-477e-9891-7f82c256b44f" name="studentuser" url="http://developer.cege.ucl.ac.uk">
+        <fileTransfer host="developer.cege.ucl.ac.uk" port="30092" rootFolder="/home/studentuser/code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="30092" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

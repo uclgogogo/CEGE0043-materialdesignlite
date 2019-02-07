@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="studentuser">
+    <serverData>
+      <paths name="studentuser">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/cege0043-week5" local="$PROJECT_DIR$/../../school" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
