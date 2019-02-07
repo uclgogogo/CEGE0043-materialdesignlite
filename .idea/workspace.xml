@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ccb97c6-629b-412a-b027-0bf31e3b8b6a" name="Default Changelist" comment="newnewnew">
+    <list default="true" id="7ccb97c6-629b-412a-b027-0bf31e3b8b6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ucfnglo/www/js/startup.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucfnglo/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/platforms/browser/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ucfnglo/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucfnglo/www/js/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/js/utilities.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucfnglo/www/res/port.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/res/port.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,25 +17,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ucfnglo/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="168" column="32" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="32" />
+            <state relative-caret-position="2508">
+              <caret line="156" column="54" lean-forward="true" selection-start-line="156" selection-start-column="54" selection-end-line="156" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ucfnglo/www/res/port.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/utilities.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/startup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/userTracking.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -44,11 +70,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/ucfnglo/www/js/startup.js" />
         <option value="$PROJECT_DIR$/ucfnglo/www/index.html" />
+        <option value="$PROJECT_DIR$/ucfnglo/www/res/port.xml" />
+        <option value="$PROJECT_DIR$/ucfnglo/www/js/utilities.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="40" />
     <option name="y" value="63" />
     <option name="width" value="1400" />
@@ -120,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549475881817</updated>
       <workItem from="1549475884580" duration="6576000" />
-      <workItem from="1549539553924" duration="316000" />
+      <workItem from="1549539553924" duration="3363000" />
     </task>
     <task id="LOCAL-00001" summary="newnew">
       <created>1549483238638</created>
@@ -136,16 +165,30 @@
       <option name="project" value="LOCAL" />
       <updated>1549483457645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add port.xml and utilities.js">
+      <created>1549540233588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549540233588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add getport()">
+      <created>1549540427983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549540427983</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6892000" />
+    <option name="totallyTimeSpent" value="9939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="63" width="1400" height="837" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -159,7 +202,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -174,7 +217,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="newnew" />
     <MESSAGE value="newnewnew" />
-    <option name="LAST_COMMIT_MESSAGE" value="newnewnew" />
+    <MESSAGE value="add port.xml and utilities.js" />
+    <MESSAGE value="add getport()" />
+    <option name="LAST_COMMIT_MESSAGE" value="add getport()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,17 +232,38 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ucfnglo/www/index.html">
+    <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/userTracking.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="168" column="32" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="32" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/userTracking.js">
+    <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/startup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ucfnglo/www/res/port.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/utilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ucfnglo/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="156" column="54" lean-forward="true" selection-start-line="156" selection-start-column="54" selection-end-line="156" selection-end-column="54" />
         </state>
       </provider>
     </entry>
