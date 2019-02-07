@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ccb97c6-629b-412a-b027-0bf31e3b8b6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ucfnglo/www/js/startup.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucfnglo/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/platforms/browser/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucfnglo/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucfnglo/www/js/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/js/utilities.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucfnglo/www/res/port.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/res/port.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ucfnglo/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2508">
-              <caret line="156" column="54" lean-forward="true" selection-start-line="156" selection-start-column="54" selection-end-line="156" selection-end-column="54" />
+            <state relative-caret-position="381">
+              <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
             </state>
           </provider>
         </entry>
@@ -149,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549475881817</updated>
       <workItem from="1549475884580" duration="6576000" />
-      <workItem from="1549539553924" duration="3363000" />
+      <workItem from="1549539553924" duration="3619000" />
     </task>
     <task id="LOCAL-00001" summary="newnew">
       <created>1549483238638</created>
@@ -179,16 +174,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549540427983</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add getport()">
+      <created>1549545193402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549545193402</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9939000" />
+    <option name="totallyTimeSpent" value="10195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="63" width="1400" height="837" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24606581" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,7 +205,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3121019" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -262,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ucfnglo/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2508">
-          <caret line="156" column="54" lean-forward="true" selection-start-line="156" selection-start-column="54" selection-end-line="156" selection-end-column="54" />
+        <state relative-caret-position="381">
+          <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
         </state>
       </provider>
     </entry>
