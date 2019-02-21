@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ccb97c6-629b-412a-b027-0bf31e3b8b6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucfnglo/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ucfnglo/www/js/AJAX.js" beforeDir="false" afterPath="$PROJECT_DIR$/ucfnglo/www/js/AJAX.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/AJAX.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="381">
+              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -186,7 +185,7 @@
       <workItem from="1549539553924" duration="7031000" />
       <workItem from="1549556997059" duration="230000" />
       <workItem from="1549995758999" duration="86000" />
-      <workItem from="1550747533571" duration="1089000" />
+      <workItem from="1550747533571" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="newnew">
       <created>1549483238638</created>
@@ -244,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549552094971</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2b ajax test">
+      <created>1550749190298</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550749190299</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15012000" />
+    <option name="totallyTimeSpent" value="15318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -287,7 +293,8 @@
     <MESSAGE value="add getport()" />
     <MESSAGE value="port completed" />
     <MESSAGE value="2a ajax completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="2a ajax completed" />
+    <MESSAGE value="2b ajax test" />
+    <option name="LAST_COMMIT_MESSAGE" value="2b ajax test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/utilities.js">
@@ -344,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ucfnglo/www/js/AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="381">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
         </state>
       </provider>
     </entry>
